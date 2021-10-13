@@ -1,0 +1,23 @@
+{
+  "name": "webdesign-week10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChananthonTha/webdesign-week10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChananthonTha/webdesign-week10/issues"
+  },
+  "homepage": "https://ChananthonTha.github.io/webdesign-week10",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
